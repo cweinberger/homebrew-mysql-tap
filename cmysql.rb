@@ -8,7 +8,7 @@ class Cmysql < Formula
   version $version
 
   depends_on "pkg-config"
-  depends_on "mysql@5.7"
+  depends_on "mysql"
 
   def install
     system "mkdir pkgconfig"
