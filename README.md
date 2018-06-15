@@ -1,3 +1,3 @@
-# homebrew-tap
+# cweinberger/mysql-tap
 
-Homebrew tap for [toolbox](https://github.com/vapor/toolbox)
+Allows to install older version of mysql using homebrew (while using `mysql` as formula name).
